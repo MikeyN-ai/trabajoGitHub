@@ -1,9 +1,11 @@
-p {
-    color: blue;
-    font-size: 12px;
-    background-color: aquamarine;
+body {
+    background-color: brown;
 }
 
 h1 {
-    color:brown ;
+    font-size: 40px;
+}
+
+p {
+    color: blue;
 }
